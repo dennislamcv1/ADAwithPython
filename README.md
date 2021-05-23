@@ -1,2 +1,6 @@
 # ADAwithPython
-Accounting Data Analytics with Python (University of Illinois at Urbana-Champaign)
+## Accounting Data Analytics with Python (University of Illinois at Urbana-Champaign)
+
+This course focuses on developing Python skills for assembling business data. It will cover some of the same material from Introduction to Accounting Data Analytics and Visualization, but in a more general purpose programming environment (Jupyter Notebook for Python), rather than in Excel and the Visual Basic Editor. These concepts are taught within the context of one or more accounting data domains (e.g., financial statement data from EDGAR, stock data, loan data, point-of-sale data).
+The first half of the course picks up where Introduction to Accounting Data Analytics and Visualization left off: using in an integrated development environment to automate data analytic tasks. We discuss how to manage code and share results within Jupyter Notebook, a popular development environment for data analytic software like Python and R. We then review some fundamental programming skills, such as mathematical operators, functions, conditional statements and loops using Python software. 
+The second half of the course focuses on assembling data for machine learning purposes.  We introduce students to Pandas dataframes and Numpy for structuring and manipulating data. We then analyze the data using visualizations and linear regression. Finally, we explain how to use Python for interacting with SQL data.
